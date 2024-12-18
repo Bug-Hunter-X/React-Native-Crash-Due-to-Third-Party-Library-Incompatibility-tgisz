@@ -1,0 +1,3 @@
+# React Native Crash: Third-Party Library Incompatibility
+
+This repository demonstrates a common React Native bug stemming from incompatibility with a third-party library. The application crashes or behaves erratically due to issues such as deprecated APIs, conflicting dependencies, or platform-specific limitations within the library. The solution involves identifying the problematic library, checking for updates, and potentially replacing it with a more stable alternative.
